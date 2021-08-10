@@ -11,3 +11,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+h2{
+  font-size:100%;
+  font-weight:bold;
+  font-family:arial,sans-serif;
+  
+
+}
+.postit{
+
+  color:#000;
+  background:#ffc;
+  display:block;
+  height:200px;
+  width:200px;
+  padding:200px;
+  margin-block: auto;
+  text-align: center;
+
+
+}
